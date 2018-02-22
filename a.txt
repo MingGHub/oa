@@ -5,3 +5,4 @@
 555555
 666666
 add mm
+update .git/config
